@@ -1,12 +1,17 @@
+Total Count: 20
+Total Original Price: 1735.2
+Bundle Price: 850, 51% OFF
+
+
 # Beds
 
 - Mattress
   - Link: [MATRAND Queen](https://www.ikea.com/ca/en/p/matrand-memory-foam-mattress-firm-white-90272402/)
-  - Discount Price: 200
+  - Discount Price: 200, 55% off
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 399+tax
+  - Original Price: 399+tax = 452
   - QuickShot:
     ![image](https://user-images.githubusercontent.com/13230138/122647766-cf640100-d0f3-11eb-868d-bb76655441e5.png)
     
@@ -16,7 +21,7 @@
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 379+tax
+  - Original Price: 379+tax = 428
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122647903-96785c00-d0f4-11eb-9d69-0815483fa7b0.png)
     
@@ -26,7 +31,7 @@
   - Count: 2
   - Bought: 2021-02
   - Receipt: Lost
-  - Original Price: 24.99+tax
+  - Original Price: 24.99+tax = 28.2
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122648377-0b4c9580-d0f7-11eb-8fed-7cfb61c271e1.png)
 
@@ -38,7 +43,7 @@
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 69.99+tax
+  - Original Price: 69.99+tax = 79
   - QuickShot:
     ![image](https://user-images.githubusercontent.com/13230138/122647985-00910100-d0f5-11eb-820f-b5f6d84ceac1.png)
     
@@ -53,7 +58,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 119+tax
+  - Original Price: 119+tax = 134
   - QuickShot:
     ![image](https://user-images.githubusercontent.com/13230138/122648251-6762ea00-d0f6-11eb-9066-bcb8947d3cb8.png)
    
@@ -65,7 +70,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 79.99+tax
+  - Original Price: 79.99+tax = 90
   - QuickShot:
     ![image](https://user-images.githubusercontent.com/13230138/122648296-a6913b00-d0f6-11eb-98ce-119cfd4886f6.png)
     
@@ -75,7 +80,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 35.00+tax
+  - Original Price: 35.00+tax = 39
   - QuickShot:    
     ![image](https://user-images.githubusercontent.com/13230138/122648425-3fc05180-d0f7-11eb-9835-5d29ffec9395.png)
     
@@ -85,7 +90,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 15.99+tax
+  - Original Price: 15.99+tax = 18
   - QuickShot:        
     ![image](https://user-images.githubusercontent.com/13230138/122648469-70a08680-d0f7-11eb-933d-1a436faba692.png)
     
@@ -97,7 +102,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 59.99+tax
+  - Original Price: 59.99+tax = 67.8
   - QuickShot:            
     ![image](https://user-images.githubusercontent.com/13230138/122648549-c83ef200-d0f7-11eb-8c4f-75a279509654.png)
 
@@ -107,7 +112,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 24.99+tax
+  - Original Price: 24.99+tax = 28
   - QuickShot:            
     ![image](https://user-images.githubusercontent.com/13230138/122648671-32f02d80-d0f8-11eb-8890-76d7d07e271d.png)
     
@@ -117,7 +122,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 14.99+tax
+  - Original Price: 14.99+tax = 16.9
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122648716-65018f80-d0f8-11eb-95d9-94d8b5e834f1.png)
     
@@ -127,7 +132,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 30.00+tax
+  - Original Price: 30.00+tax = 33.9
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122648762-94b09780-d0f8-11eb-9cd0-15061425a117.png)
     
@@ -139,7 +144,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 9.99+tax
+  - Original Price: 9.99+tax = 11.3
   - Bulb: Included as gift
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122648826-e6f1b880-d0f8-11eb-8415-040f4322e227.png)
@@ -150,7 +155,7 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 14.99+tax
+  - Original Price: 14.99+tax = 16.9
   - Bulb: Included as gift
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122648876-1accde00-d0f9-11eb-9c4d-3c90c8e840d4.png)
@@ -161,11 +166,8 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
-  - Original Price: 24.99+tax
+  - Original Price: 24.99+tax = 28
   - Note: Color is light green
   - QuickShot: 
     ![image](https://user-images.githubusercontent.com/13230138/122649152-8c595c00-d0fa-11eb-826c-fc426e37ce20.png)
-
-    ![image](https://user-images.githubusercontent.com/13230138/122648876-1accde00-d0f9-11eb-9c4d-3c90c8e840d4.png)
-
       
