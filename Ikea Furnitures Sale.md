@@ -1,7 +1,6 @@
-Total Count: 20
-Total Original Price: 1735.2
-Bundle Price: 850, 51% OFF
-
+## Bundle Price: 850, 51% OFF
+## Total Original Price: 1735.2
+## Total Count: 20
 
 # Beds
 
