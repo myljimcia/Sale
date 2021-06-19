@@ -7,7 +7,6 @@ Bundle Price: 850, 51% OFF
 
 - Mattress
   - Link: [MATRAND Queen](https://www.ikea.com/ca/en/p/matrand-memory-foam-mattress-firm-white-90272402/)
-  - Discount Price: 200, 55% off
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -17,7 +16,6 @@ Bundle Price: 850, 51% OFF
     
 - Bed
   - Link: [SONGESAND Bed frame with 4 storage boxes, Queen](https://www.ikea.com/ca/en/p/songesand-bed-frame-with-4-storage-boxes-brown-luroey-s89241195/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -27,7 +25,6 @@ Bundle Price: 850, 51% OFF
     
 - Nightstand
   - Link: [NESNA Nightstand 14 1/8x13 3/4 " (36x35 cm)](https://www.ikea.com/ca/en/p/nesna-nightstand-70215525/)
-  - Discount Price: 200
   - Count: 2
   - Bought: 2021-02
   - Receipt: Lost
@@ -54,7 +51,6 @@ Bundle Price: 850, 51% OFF
 Leg, black](https://www.ikea.com/ca/en/p/adils-leg-black-70217973/)
   - Drawer: [ALEX
 Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-drawer-unit-white-00473546/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -66,7 +62,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
 
 - MILLBERGET Office Chair
   - Link: [MILLBERGET Swivel chair, Bomstad black](https://www.ikea.com/ca/en/p/millberget-swivel-chair-bomstad-black-40331705/)
-  - Discount Price: 200
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
@@ -76,7 +71,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
     
 - Dining Chair
   - Link: [TEODORES, Chair, white](https://www.ikea.com/ca/en/p/teodores-chair-white-30486156/)
-  - Discount Price: 200
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
@@ -86,7 +80,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
     
 - Chair
   - Link: [KYRRE Stool, birch](https://www.ikea.com/ca/en/p/kyrre-stool-birch-60416925/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -98,7 +91,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
 
 - Shelf
   - Link: [KALLAX, Shelf unit, white30 3/8x30 3/8 " (77x77 cm)](https://www.ikea.com/ca/en/p/kallax-shelf-unit-white-20275814/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -108,7 +100,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
 
 - Basket
   - Link: [KNIPSA Basket, seagrass12 ½x13x12 ½ " (32x33x32 cm)](https://www.ikea.com/ca/en/p/knipsa-basket-seagrass-20110540/)
-  - Discount Price: 200
   - Count: 2
   - Bought: 2020-08
   - Receipt: Yes
@@ -118,7 +109,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
     
 - Drawer
   - Link: [LENNART Drawer unit, white](https://www.ikea.com/ca/en/p/lennart-drawer-unit-white-30326177/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -140,7 +130,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
 
 - Floor uplighter
   - Link: [TÅGARP Floor uplighter, black](https://www.ikea.com/ca/en/p/tagarp-floor-uplighter-black-white-60464049/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -151,7 +140,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
     
 - Floor uplighter
   - Link: [TÅGARP Floor uplighter/reading lamp, white](https://www.ikea.com/ca/en/p/tagarp-floor-uplighter-reading-lamp-black-white-70486395/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
@@ -162,7 +150,6 @@ Drawer unit, white14 1/8x27 1/2 " (36x70 cm)](https://www.ikea.com/ca/en/p/alex-
     
 - Work lamp
   - Link: [FORSÅ Work lamp, nickel plated](https://www.ikea.com/ca/en/p/forsa-work-lamp-nickel-plated-60146764/)
-  - Discount Price: 200
   - Count: 1
   - Bought: 2020-08
   - Receipt: Yes
