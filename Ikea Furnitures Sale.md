@@ -1,4 +1,4 @@
-## Bundle Price: 850, 51% OFF
+## Offered Bundle Price: 850, 51% OFF
 ## Total Original Price: 1735.2
 ## Total Count: 20
 
